@@ -88,6 +88,7 @@ function movimentaRaqueteOponente (){
 }
 
 function incluiPlacar (){
+  stroke (255);
   textAlign (CENTER);
   textSize (20);
   fill(color(255,140,0));
